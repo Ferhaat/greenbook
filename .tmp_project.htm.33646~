@@ -1,0 +1,476 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="se">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<link rel="stylesheet" href="index.css" type="text/css" />
+		
+		<title>Projekt</title>
+	</head>
+	
+	
+<body>
+		
+	<div id="header">
+		<div id="header-content">	
+		
+			<h1 id="logo"><a href="index.html" title="">jord<span class="gray">elit</span></a></h1>	
+			<h2 id="slogan">We believe in pleety grass!</h2>		
+		
+		<!-- Menu Tabs -->
+			<ul>
+				<li><a href="index.html" id="active">Home</a></li>
+				<li><a href="index.html">Stuff</a></li>
+				<li><a href="index.html">Stuff</a></li>
+				<li><a href="index.html">Stuff</a></li>
+				<li><a href="index.html">Stuff</a></li>			
+			</ul>		
+			
+		</div>
+	</div>
+		<!--
+		Plan table
+		-->
+		<table id="plan_table">
+			<colgroup class="week" span="1" ></colgroup>
+			<colgroup class="red" span="2"></colgroup>
+			<colgroup class="green" span="2"></colgroup>
+			<colgroup class="blue" span="2"></colgroup>
+			<colgroup class="orange" span="2"></colgroup>
+			<colgroup class="yellow" span="2"></colgroup>
+			<tr>
+				<th>Vecka</th>
+				<th>Header</th>
+				<th>Header</th>
+				<th>Header</th>
+				<th>Header</th>
+				<th>Header</th>
+				<th>Header</th>
+				<th>Header</th>
+				<th>Header</th>
+				<th>Header</th>
+				<th>Header</th>
+			</tr>			
+			<tr>
+				<td>11</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+			<tr>
+				<td>12</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+			<tr>
+				<td>13</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+			<tr>
+				<td>14</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+			<tr>
+				<td>15</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+			<tr>
+				<td>16</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+			<tr>
+				<td>17</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+			<tr>
+				<td>18</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+			<tr>
+				<td>19</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+			<tr>
+				<td>20</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+			<tr>
+				<td>21</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+			<tr>
+				<td>22</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+			<tr>
+				<td>23</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+			<tr>
+				<td>24</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+			<tr>
+				<td>25</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+			<tr>
+				<td>26</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+			<tr>
+				<td>27</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+			<tr>
+				<td>28</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+			<tr>
+				<td>29</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+			<tr>
+				<td>30</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+			<tr>
+				<td>31</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+			<tr>
+				<td>32</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+			<tr>
+				<td>33</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+			<tr>
+				<td>34</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+			<tr>
+				<td>35</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+			<tr>
+				<td>36</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+			<tr>
+				<td>37</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+			<tr>
+				<td>38</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+			<tr>
+				<td>39</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+			<tr>
+				<td>40</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+			<tr>
+				<td>41</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+			<tr>
+				<td>42</td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+				<td><input text="text" size="3"></input></td>
+			</tr>
+		</table>
+		<!--
+		Plan table end
+		-->
+	
+	</body>
+</html>

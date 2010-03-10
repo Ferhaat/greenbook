@@ -1,0 +1,206 @@
+<html><h1>The H1 tag looks like this</h1>
+<p>The paragraph tag after an H1 tag looks like this</p>
+<h2>The H2 tag looks like this</h2>
+<p>The paragraph tag after an H2 tag looks like this</p>
+<h3>The H1 tag looks like this</h3>
+<p>The paragraph tag after an H3 tag looks like this</p>
+<h4>The H4 tag looks like this</h4>
+<p>The paragraph tag after an H4 tag looks like this</p>
+<h5>The H5 tag looks like this</h5>
+<p>The paragraph tag after an H5 tag looks like this</p>
+<ol>
+<li><strong>This is a strong element in an ordered list</strong></li>
+<li><i>This is an italic element in an ordered list</i></li>
+<li><b>This is a bold element in an ordered list</b></li>
+<li><em>This is an emphasized element in an ordered list</em></li>
+<li>This is a regular element in an ordered list</li>
+</ol>
+<ul>
+<li><strong>This is a strong element in an unordered list</strong></li>
+<li><i>This is an italic element in an unordered list</i></li>
+<li><b>This is a bold element in an unordered list</b></li>
+<li><em>This is an emphasized element in an unordered list</em></li>
+<li>This is a regular element in an unordered list</li>
+</ul>
+<blockquote>The block quote element looks like this</blockquote>
+<pre>The pre element looks like this</pre>
+<code>The code element looks like this</code>
+<br/>
+<span>The span element looks like this</span>
+<br/>
+<a href="#">The anchor element looks like this</a>
+<br/>
+<br/>
+<div style="float:left;margin:20px;width:200px;">Text inside a div that is 200 pixels wide looks like this.  Text inside a div that is 200 pixels wide looks like this.  Text inside a div that is 200 pixels wide looks like this.  Text inside a div that is 200 pixels wide looks like this.  Text inside a div that is 200 pixels wide looks like this.  Text inside a div that is 200 pixels wide looks like this.  Text inside a div that is 200 pixels wide looks like this.  Text inside a div that is 200 pixels wide looks like this.  Text inside a div that is 200 pixels wide looks like this.  Text inside a div that is 200 pixels wide looks like this.</div>
+<div style="float:left;margin:20px;width:400px;">Text inside a div that is 400 pixels wide looks like this.  Text inside a div that is 400 pixels wide looks like this.  Text inside a div that is 400 pixels wide looks like this.  Text inside a div that is 400 pixels wide looks like this.  Text inside a div that is 400 pixels wide looks like this.  Text inside a div that is 400 pixels wide looks like this.  Text inside a div that is 400 pixels wide looks like this.  Text inside a div that is 400 pixels wide looks like this.  Text inside a div that is 400 pixels wide looks like this.  Text inside a div that is 400 pixels wide looks like this.  Text inside a div that is 400 pixels wide looks like this.  Text inside a div that is 400 pixels wide looks like this.  Text inside a div that is 400 pixels wide looks like this.  Text inside a div that is 400 pixels wide looks like this.  Text inside a div that is 400 pixels wide looks like this.  Text inside a div that is 400 pixels wide looks like this.  Text inside a div that is 400 pixels wide looks like this.  Text inside a div that is 400 pixels wide looks like this.  Text inside a div that is 400 pixels wide looks like this.  Text inside a div that is 400 pixels wide looks like this.  Text inside a div that is 400 pixels wide looks like this.  Text inside a div that is 400 pixels wide looks like this.</div>
+<div style="float:left;margin:20px;width:600px;">Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.  Text inside a div that is 600 pixels wide looks like this.</div><style>/********************************************
+AUTHOR:  			Irina Adamoaia
+LAST MODIFIED:    	10-03 2010     	
+ *******************************************/ 
+
+
+/* top elements */
+* { 
+	padding: 0;
+	margin: 0; 
+}
+
+body {
+	margin: 0;
+ 	padding: 0;
+	font: normal 14px 'Trebuchet MS', Tahoma, sans-serif;
+	color: #555;
+	background: #fff url(bg.jpg) repeat-x;
+	text-align: center;		
+}
+
+/* links */
+a { 
+	background: inherit;
+	color: #72A545;
+	text-decoration: none;
+}
+
+a:hover {
+	background: inherit;
+	color: #006699; 
+	text-decoration: underline; 
+}
+
+/* headers */
+h1, h2, h3 { 
+	font-weight: bold;
+	font-family: 'Trebuchet MS', Tahoma, Sans-serif; 
+}
+
+h1 { 
+	font-size: 24px; 
+	color: #65944A; 
+}
+
+h2 { 
+	font-size: 20px; 
+	text-transform: uppercase; 
+}
+
+h3 { 
+	font-size: 18px; 
+}
+
+p, h1, h2, h3 {
+	margin: 10px 15px;
+}
+
+ul, ol {
+	margin: 10px 30px;
+	padding: 0 15px;		
+}
+
+/* images */
+img {
+	border: 1px solid #dadada;
+	padding: 5px;
+	background: #fafafa;
+}
+
+img.float-right {
+  margin: 5px 0px 5px 15px;  
+}
+img.float-left {
+  margin: 5px 15px 5px 0px;
+}
+
+blockquote {
+	margin: 15px; 	
+	padding: 0 0 0 20px;  	
+  	background-color: #FAFAFA; 
+	background-position: 8px 10px;
+	border: 1px solid #f2f2f2; 
+	border-left: 3px solid #72A545;  
+	font: bold 14px "Trebuchet MS", Tahoma, sans-serif; 
+	color: #666666;	
+}
+
+/* start - table */
+table {
+	border-collapse: collapse;
+	margin: 10px 15px;	
+}
+
+th strong {
+	color: #fff;
+}
+
+th {
+	background: #74A846;
+	height: 29px;
+	padding-left: 11px;
+	padding-right: 11px;
+	color: #fff;
+	text-align: left;
+	border-left: 1px solid #B6D59A;
+	border-bottom: solid 2px #FFF;
+}
+
+tr {
+	height: 30px;
+}
+
+td {
+	padding-left: 11px;
+	padding-right: 11px;
+	/* border-left: 1px solid #FFE1C3; */
+	border-left: 1px solid #FFF;
+	border-bottom: solid 1px #ffffff;
+}
+
+td.first,th.first {
+	border-left: 0px;
+}
+
+tr.row-a {
+	background: #F8F8F8;
+}
+
+tr.row-b {
+	background: #EFEFEF;
+}
+/* end - table */
+
+
+/* form elements */
+form {
+	margin:10px 15px; padding: 0;
+	border: 1px solid #f2f2f2; 
+	background-color: #FAFAFA; 
+}
+label {
+	display:block;
+	font-weight:bold;
+	margin:5px 0;
+}
+input {
+	padding: 2px;
+	border:1px solid #eee;
+	font: normal 1em "Trebuchet MS", Tahoma, sans-serif;
+	color:#777;
+}
+textarea {
+	width:400px;
+	padding:2px;
+	font: normal 1em "Trebuchet MS", Tahoma, sans-serif;
+	border:1px solid #eee;
+	height:100px;
+	display:block;
+	color:#777;
+}
+input.button { 
+	margin: 0; 
+	font: bold 1em Arial, Sans-serif; 
+	background: #FFF url(gradientbg.jpg) repeat-x; 
+	padding: 2px 3px; 
+	color: #333;	
+	border: 1px solid #DADADA;	
+}
+
+</style></html>
