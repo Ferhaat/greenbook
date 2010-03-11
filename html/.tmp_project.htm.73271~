@@ -10,31 +10,31 @@
     <div id="header">
       <div id="header-content">
         <h1 id="logo">
-          <a href="jord_index.html" title="">jord<span class="gray">elit</span></a>
+          <a href="index.html" title="">jord<span class="gray">elit</span></a>
         </h1>
         <h2 id="slogan">
           We believe in preety grass!
         </h2><!-- Menu Tabs -->
         <ul>
           <li>
-            <a href="jord_index.html">Home</a>
+            <a href="index.html" id="active">Home</a>
           </li>
           <li>
-            <a href="project.htm" id="active">Projekt</a>
+            <a href="index.html">Stuff</a>
           </li>
           <li>
-            <a href="jord_index.html">Stuff</a>
+            <a href="index.html">Stuff</a>
           </li>
           <li>
-            <a href="jord_index.html">Stuff</a>
+            <a href="index.html">Stuff</a>
           </li>
           <li>
-            <a href="jord_index.html">Stuff</a>
+            <a href="index.html">Stuff</a>
           </li>
         </ul>
       </div>
     </div>
-        <form action="" method="post"> 
+        <form action="" method="post">
             <!--
             Plan table
             -->
