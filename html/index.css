@@ -107,6 +107,7 @@ td {
 	border-left: 1px solid #FFF;
 	border-bottom: solid 1px #ffffff;
 }
+/*
 
 tr.row-a {
 	background: #F8F8F8;
@@ -115,6 +116,7 @@ tr.row-a {
 tr.row-b {
 	background: #EFEFEF;
 }
+*/
 /****************border-color på colspan = ugly! ****************/
 table .red {
 	/*border: 2px #ff0000;
@@ -131,13 +133,15 @@ table .green {
 
 /****** nth:child funkar ej i FF ********/
 
-/*tr:nth-child(odd) {
+
+tr:nth-child(odd) {
 	background: #F8F8F8;
 }
 
 tr:nth-child(even) {
 	background: #EFEFEF;
-}*/
+}
+
 /*********************************************/
 
 /* end - table */
