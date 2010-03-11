@@ -1,0 +1,204 @@
+-- phpMyAdmin SQL Dump
+-- version 2.9.2-Debian-1.one.com1
+-- http://www.phpmyadmin.net
+-- 
+-- Värd: MySQL Server
+-- Skapad: 11 mars 2010 kl 10:24
+-- Serverversion: 5.0.51
+-- PHP-version: 5.2.0-8+etch16
+-- 
+-- Databas: `praktikprojekt_`
+-- 
+
+-- --------------------------------------------------------
+
+-- 
+-- Struktur för tabell `greenbook_clients`
+-- 
+
+CREATE TABLE `greenbook_clients` (
+  `id` int(11) NOT NULL auto_increment,
+  `seller_id` int(11) NOT NULL,
+  `name` varchar(100) NOT NULL,
+  `surname` varchar(100) NOT NULL,
+  `adress` varchar(100) NOT NULL,
+  `company` varchar(100) default NULL,
+  `company_adress` varchar(100) default NULL,
+  `pers_org_nr` int(11) NOT NULL,
+  `mobile` int(11) NOT NULL,
+  `mail` varchar(100) NOT NULL,
+  `type` enum('privat person','företag') NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
+
+-- 
+-- Data i tabell `greenbook_clients`
+-- 
+
+
+-- --------------------------------------------------------
+
+-- 
+-- Struktur för tabell `greenbook_product__has__substance`
+-- 
+
+CREATE TABLE `greenbook_product__has__substance` (
+  `product_id` int(11) NOT NULL,
+  `substance_id` int(11) NOT NULL,
+  `procent` float NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+-- 
+-- Data i tabell `greenbook_product__has__substance`
+-- 
+
+
+-- --------------------------------------------------------
+
+-- 
+-- Struktur för tabell `greenbook_products`
+-- 
+
+CREATE TABLE `greenbook_products` (
+  `id` int(11) NOT NULL auto_increment,
+  `name` varchar(50) NOT NULL,
+  `type` varchar(50) NOT NULL,
+  `density` float NOT NULL,
+  `size` float NOT NULL,
+  `price` decimal(8,2) NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
+
+-- 
+-- Data i tabell `greenbook_products`
+-- 
+
+
+-- --------------------------------------------------------
+
+-- 
+-- Struktur för tabell `greenbook_programs`
+-- 
+
+CREATE TABLE `greenbook_programs` (
+  `id` int(11) NOT NULL auto_increment,
+  `client_id` int(11) NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
+
+-- 
+-- Data i tabell `greenbook_programs`
+-- 
+
+
+-- --------------------------------------------------------
+
+-- 
+-- Struktur för tabell `greenbook_seller`
+-- 
+
+CREATE TABLE `greenbook_seller` (
+  `id` int(11) NOT NULL auto_increment,
+  `name` varchar(30) NOT NULL,
+  `surname` varchar(30) NOT NULL,
+  `mobile` int(20) NOT NULL,
+  `mail` varchar(100) NOT NULL,
+  `client_id` int(11) NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
+
+-- 
+-- Data i tabell `greenbook_seller`
+-- 
+
+
+-- --------------------------------------------------------
+
+-- 
+-- Struktur för tabell `greenbook_substances`
+-- 
+
+CREATE TABLE `greenbook_substances` (
+  `id` int(11) NOT NULL auto_increment,
+  `name` varchar(30) NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
+
+-- 
+-- Data i tabell `greenbook_substances`
+-- 
+
+
+-- --------------------------------------------------------
+
+-- 
+-- Struktur för tabell `greenbook_surfaces`
+-- 
+
+CREATE TABLE `greenbook_surfaces` (
+  `id` int(11) NOT NULL auto_increment,
+  `program_id` int(11) NOT NULL,
+  `size` float NOT NULL,
+  `type` varchar(30) NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
+
+-- 
+-- Data i tabell `greenbook_surfaces`
+-- 
+
+
+-- --------------------------------------------------------
+
+-- 
+-- Struktur för tabell `greenbook_week_shedule__uses__product`
+-- 
+
+CREATE TABLE `greenbook_week_shedule__uses__product` (
+  `product_id` int(11) NOT NULL,
+  `week_shedule_id` int(11) NOT NULL,
+  `amount` float NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+-- 
+-- Data i tabell `greenbook_week_shedule__uses__product`
+-- 
+
+
+-- --------------------------------------------------------
+
+-- 
+-- Struktur för tabell `greenbook_week_shedule__uses_planned__product`
+-- 
+
+CREATE TABLE `greenbook_week_shedule__uses_planned__product` (
+  `week_shedule_id` int(11) NOT NULL,
+  `product_id` int(11) NOT NULL,
+  `amount` float NOT NULL,
+  `stored_price` decimal(8,2) NOT NULL
+) ENGINE=MyISAM DEFAULT CHARSET=utf8;
+
+-- 
+-- Data i tabell `greenbook_week_shedule__uses_planned__product`
+-- 
+
+
+-- --------------------------------------------------------
+
+-- 
+-- Struktur för tabell `greenbook_week_shedules`
+-- 
+
+CREATE TABLE `greenbook_week_shedules` (
+  `id` int(11) NOT NULL auto_increment,
+  `week` int(2) NOT NULL,
+  `surface_id` int(11) NOT NULL,
+  PRIMARY KEY  (`id`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=1 ;
+
+-- 
+-- Data i tabell `greenbook_week_shedules`
+-- 
+
+
+-- --------------------------------------------------------
