@@ -63,7 +63,7 @@
             Plan table
             -->
             <table id="plan_table">
-                <colgroup span="1">
+				<colgroup span="1">
                 	<col class="week" />
                 </colgroup>
                 <colgroup span="2">

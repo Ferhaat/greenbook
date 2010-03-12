@@ -1,0 +1,2727 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="se">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" href="project.css" type="text/css" />
+    <title>
+      Projekt
+    </title>
+  </head>
+  <body>
+  	<div id = "wrap">
+    	<div id="header">
+      		<div id="header-content">
+                <h1 id="logo"><a href="index.html" title="">jord<span class="gray">elit</span></a></h1>
+                <h2 id="slogan">We believe in pleety grass!</h2>
+                <!-- Menu Tabs -->
+                <!-- <ul>
+                    <li>
+                        <a href="jord_index.html">Hem</a>
+                    </li>
+                    <li>
+                        <a href="jord_index.html" id="active">Program</a>
+                    </li>
+                    <li>
+                        <a href="jord_index.html">Bildbank</a>
+                    </li>
+                    <li>
+                        <a href="jord_index.html">Analys</a>
+                    </li>
+                    <li>
+                        <a href="jord_index.html">Forum</a>
+                    </li>
+                </ul> -->
+            </div>
+			
+			<div id = "under_header">
+				<ul>
+                    <li>
+                        <a href="project.html" id="active">Project 1</a>
+                    </li>
+                    <li>
+                        <a href="project.html">Project 2</a>
+                    </li>
+                    <li>
+                        <a href="project.html">Project 3</a>
+                    </li>
+                    <li>
+                        <a href="project.html">Project 4</a>
+                    </li>
+                    <li>
+                        <a href="project.html">Project 5</a>
+                    </li>
+					<li>
+                        <a href="project.html">Project 6</a>
+                    </li>
+                </ul>
+			</div>
+    </div> <!-- slut på header -->
+	
+	
+	<div id="content-wrap">
+        <form action="" method="post">
+            <!--
+            Plan table
+            -->
+            <table id="plan_table">
+                <colgroup span="1">
+                	<col class="week" />
+                </colgroup>
+                <colgroup span="2">
+                	<col class="red" />
+                	<col class="red" />
+                </colgroup>
+                <colgroup span="2">
+                	<col class="green" />
+                	<col class="green" />
+                </colgroup>
+                <colgroup span="2">
+                	<col class="blue" />
+                	<col class="blue" />
+                </colgroup>
+                <colgroup span="2">
+                	<col class="orange" />
+                	<col class="orange" />
+                </colgroup>
+                <colgroup span="2">
+                	<col class="yellow" />
+                	<col class="yellow"  />
+                </colgroup>
+                <tr>
+                    <th>
+                        Vecka
+                    </th>
+                    <th>
+                        Header
+                    </th>
+                    <th>
+                        Header
+                    </th>
+                    <th>
+                        Header
+                    </th>
+                    <th>
+                        Header
+                    </th>
+                    <th>
+                        Header
+                    </th>
+                    <th>
+                        Header
+                    </th>
+                    <th>
+                        Header
+                    </th>
+                    <th>
+                        Header
+                    </th>
+                    <th>
+                        Header
+                    </th>
+                    <th>
+                        Header
+                    </th>
+                </tr>
+                <tr>
+                    <td>
+                        11
+                    </td>
+                    <td>
+                        <input text="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        12
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        13
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        14
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        15
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        16
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        17
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        18
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        19
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        20
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        21
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        22
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        23
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        24
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        25
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        26
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        27
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        28
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        29
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        30
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        31
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        32
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        33
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        34
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        35
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        36
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        37
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        38
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        39
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        40
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        41
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        42
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+            </table><!--
+            Plan table end
+            -->
+            <!--
+            Prices table
+            -->
+            <table id="prices_table" >
+                <colgroup span="1" class="week">
+                </colgroup>
+                <colgroup span="2" class = "red">
+                </colgroup>
+                <colgroup class="green" span="2">
+                </colgroup>
+                <colgroup class="blue" span="2">
+                </colgroup>
+                <colgroup class="orange" span="2">
+                </colgroup>
+                <colgroup class="yellow" span="2">
+                </colgroup>
+				
+                <thead>
+                	<tr> 
+	                    <th>
+	                    </th>
+	                    <th>
+	                        Header
+	                    </th>
+	                    <th>
+	                        Header
+	                    </th>
+	                    <th>
+	                        Header
+	                    </th>
+	                    <th>
+	                        Header
+	                    </th>
+	                    <th>
+	                        Header
+	                    </th>
+	                    <th>
+	                        Header
+	                    </th>
+	                    <th>
+	                        Header
+	                    </th>
+	                    <th>
+	                        Header
+	                    </th>
+	                    <th>
+	                        Header
+	                    </th>
+	                    <th>
+	                        Header
+	                    </th>
+                	</tr>
+				</thead>
+				<tbody>
+	                <tr>
+	                    <td>
+	                        Antal förp / yta
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                </tr>
+	                <tr>
+	                    <td>
+	                        Totalt liter/Ha
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                </tr>
+	                <tr>
+	                    <td>
+	                        Liter eller kg
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                </tr>
+	                <tr>
+	                    <td>
+	                        Pris / prod.
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                    <td>
+	                        <input type="text" size="3" />
+	                        
+	                    </td>
+	                </tr>
+				</thead>
+            </table><!--
+            Prices table end
+            -->
+            <!--
+            Product table
+            -->
+            <table id="product_table">
+                <colgroup class="week" span="1">
+                	<col width="150" />
+                </colgroup>
+                <colgroup class="red" span="2">
+                </colgroup>
+                <colgroup class="green" span="2">
+                </colgroup>
+                <colgroup class="blue" span="2">
+                </colgroup>
+                <colgroup class="orange" span="2">
+                </colgroup>
+                <colgroup class="yellow" span="2">
+                </colgroup>
+                <tr>
+                    <th>
+                        Ämnen
+                    </th>
+                    <th>
+                        Header
+                    </th>
+                    <th>
+                        Header
+                    </th>
+                    <th>
+                        Header
+                    </th>
+                    <th>
+                        Header
+                    </th>
+                    <th>
+                        Header
+                    </th>
+                    <th>
+                        Header
+                    </th>
+                    <th>
+                        Header
+                    </th>
+                    <th>
+                        Header
+                    </th>
+                    <th>
+                        Header
+                    </th>
+                    <th>
+                        Header
+                    </th>
+                </tr>
+                <tr>
+                    <td>
+                        Org:
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        N
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        P
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        K
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Fe
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Mg
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Mn
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Ca
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Zn
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Cu
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        B
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Mo
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        S
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Seaweed
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Aminosyror
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Humic acid
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Förpnings storlek:
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Densitet
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        Pris / förpackning
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                    <td>
+                        <input type="text" size="3" />
+                        
+                    </td>
+                </tr>
+            </table><!--
+            Product table end
+            --><input type="submit" class = "button" value="Spara Projekt" />
+        </form>
+		</div> <!--slut på content-wrap-->
+		</div> <!-- slut på "wrap" -->
+		<div id="footer">
+                <p>
+                            &copy; copyright 2010 <strong>Jordelit</strong> | Design av: <a href="index.html"><strong>Team ISAF</strong></a>
+                            Valid <a href="http://jigsaw.w3.org/css-validator/check/referer"><strong>CSS</strong></a>
+                            / <a href="http://validator.w3.org/check/referer"><strong>XHTML</strong></a>
+                </p>
+        </div>
+            <!-- footer ends here -->
+    </body>
+</html>
